@@ -1,3 +1,5 @@
+Welcome all to the Git and Github workshop!
+
 Swasthik
 Nagaraj
 Shrilakshmi
